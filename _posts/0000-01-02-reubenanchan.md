@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Gang
+Reuben Anchan
 Use the left arrow to go back!
